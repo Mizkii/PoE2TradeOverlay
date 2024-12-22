@@ -36,8 +36,8 @@ Refresh page
 Minimize/close  
 
 
-Technical details:
-- Configuration auto-saves on close
-- Full WebView2 process cleanup
-- Native Windows API integration for window manipulation
-- Event-driven architecture for state management
+## Technical details:
+- Configuration auto-saves on close  
+- Full WebView2 process cleanup  
+- Native Windows API integration for window manipulation  
+- Event-driven architecture for state management  
