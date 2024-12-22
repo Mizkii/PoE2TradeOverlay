@@ -34,8 +34,11 @@ Run the application
 Press F1 to toggle overlay visibility
 
 Use titlebar to:
+
 Change hotkey
+
 Refresh page
+
 Minimize/close
 
 
