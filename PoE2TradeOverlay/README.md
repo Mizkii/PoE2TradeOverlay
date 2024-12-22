@@ -16,19 +16,6 @@ Lightweight overlay application for Path of Exile 2 trading
 - Framework: .NET 8.0
 - Dependencies: Microsoft.Web.WebView2
 
-## Structure
-PoE2TradeOverlay/
-├── Configuration/
-│   └── AppSettings.cs       # JSON config persistence
-├── Controls/
-│   ├── DeviceSelector.cs    # Mobile viewport dropdown // not implemented
-│   ├── HotkeySelector.cs    # Hotkey capture control
-│   ├── OverlayButton.cs     # Custom button style
-│   └── TitleBar.cs         # Draggable window header
-├── WebViewManager.cs        # WebView2 controller
-├── WindowManager.cs         # Window state handler
-├── HotkeyManager.cs         # Global hotkey registration
-└── OverlayForm.cs          # Main application window
 
 ## Installation
 
