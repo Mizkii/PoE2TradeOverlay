@@ -26,19 +26,13 @@ dotnet add package Microsoft.Web.WebView2
 
 ## Usage:
 Build the application
-
 Start the Game and set it to Windowed Fullscreen
-
 Run the application
-
 Press F1 to toggle overlay visibility
 
 Use titlebar to:
-
 Change hotkey
-
 Refresh page
-
 Minimize/close
 
 
