@@ -26,7 +26,8 @@ dotnet add package Microsoft.Web.WebView2
 
 ## Usage
 
-Build the application  
+Build or Download the application  
+https://github.com/Mizkii/PoE2TradeOverlay/releases/tag/PoE2TradeOverlay  
 Start the Game and set it to Windowed Fullscreen  
 Run the application  
 Press F1 to toggle overlay visibility  
